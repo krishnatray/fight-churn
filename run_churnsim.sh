@@ -10,7 +10,7 @@ CHURN_DB=churn
 CHURN_DB_USER=user
 CHURN_DB_PASS=pass
 
-CHURN_ROOT=path_from_home_to_code
+CHURN_ROOT=churn
 
 PYTHONPATH="${PYTHONPATH}:$HOME/$CHURN_ROOT/fight-churn/listings/chap3:"\
 "$HOME/$CHURN_ROOT/fight-churn/listings/chap5:"\
